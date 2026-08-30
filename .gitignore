@@ -1,0 +1,31 @@
+# Compiled output
+*.class
+out/
+build/
+bin/
+
+# Gradle
+.gradle/
+gradle-app.setting
+gradlew
+gradlew.bat
+gradle/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# OS files
+.DS_Store
+Thumbs.db
